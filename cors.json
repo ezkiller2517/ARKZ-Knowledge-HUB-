@@ -1,0 +1,13 @@
+[
+  {
+    "origin": [
+      "https://arkzknowledgehub.web.app",
+      "https://arkzknowledgehub.firebaseapp.com",
+      "http://localhost:3000",
+      "http://127.0.0.1:3000"
+    ],
+    "method": ["PUT","OPTIONS","GET"],
+    "responseHeader": ["Content-Type","x-goog-resumable"],
+    "maxAgeSeconds": 3600
+  }
+]

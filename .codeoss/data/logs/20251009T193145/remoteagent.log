@@ -1,0 +1,14 @@
+2025-10-09 19:31:45.963 [info] 
+
+
+
+
+2025-10-09 19:31:45.963 [info] Extension host agent started.
+2025-10-09 19:31:45.980 [info] Started initializing default profile extensions in extensions installation folder. file:///home/ezekielzechariahlove/.codeoss/extensions
+2025-10-09 19:31:45.993 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/ezekielzechariahlove/.codeoss/extensions
+2025-10-09 19:31:51.188 [info] [127.0.0.1][73a3dd0f][ManagementConnection] New connection established.
+2025-10-09 19:31:51.296 [info] [127.0.0.1][1c8c873a][ExtensionHostConnection] New connection established.
+2025-10-09 19:31:53.141 [info] [127.0.0.1][1c8c873a][ExtensionHostConnection] <2155> Launched Extension Host Process.
+2025-10-09 19:34:05.009 [info] [127.0.0.1][1c8c873a][ExtensionHostConnection] The client has reconnected.
+2025-10-09 19:34:05.255 [info] [127.0.0.1][73a3dd0f][ManagementConnection] The client has reconnected.
+2025-10-09 19:35:39.476 [info] [127.0.0.1][73a3dd0f][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...

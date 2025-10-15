@@ -1,0 +1,13 @@
+[
+  {
+    "origin": ["*"],
+    "method": ["GET", "PUT", "POST", "HEAD", "OPTIONS"],
+    "responseHeader": [
+      "Content-Type",
+      "Authorization",
+      "x-goog-*",
+      "x-firebase-appcheck"
+    ],
+    "maxAgeSeconds": 3600
+  }
+]
